@@ -1,0 +1,4 @@
+version: 1
+display_name: SCM UI 设计风格
+short_description: 在其他项目复刻SCM UI视觉与布局规范
+default_prompt: 请按 SCM UI 风格输出页面设计 token、布局骨架与关键组件规范
