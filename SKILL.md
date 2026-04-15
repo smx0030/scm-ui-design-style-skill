@@ -17,6 +17,7 @@ description: 基于 SCM UI 仓库沉淀可复用的企业后台视觉与页面�
 ## 必读参考
 - 设计 token 与视觉语言：`references/design-tokens.md`
 - 页面骨架与组件规则：`references/page-blueprints.md`
+- 左侧导航细则：`references/sidebar-navigation.md`
 - 迁移执行清单：`references/migration-checklist.md`
 
 ## 输出要求
